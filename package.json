@@ -1,0 +1,27 @@
+{
+  "name": "modify",
+  "version": "0.0.1",
+  "description": "to modify some html code.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanyi24/modify.git"
+  },
+  "keywords": [
+    "modify",
+    "html",
+    "code"
+  ],
+  "author": "yanyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanyi24/modify/issues"
+  },
+  "homepage": "https://github.com/yanyi24/modify#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.0.3"
+  }
+}
