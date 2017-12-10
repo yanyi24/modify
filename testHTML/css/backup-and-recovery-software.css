@@ -1,0 +1,383 @@
+.banner-container{background: url('../images/backup-and-recovery-software/banner-bg.jpg') no-repeat center center;  background-size: cover;}
+.banner-time{background: url('/images/automated-backup-software/banner-bg.jpg') no-repeat center center;  }
+.banner-times {
+	width: 775px;
+    height: 421px;
+    left: 450px;
+    z-index: 2;
+    position: absolute;
+}
+.brmcbj1{ background-color: #015593;  height: 418px;  }
+.bdsm-title div h1 p{font-size:40px; font-weight: 100; }
+.bdsm-desc1 {  position: relative; margin:20px 0 0 -450px;}
+.title_banner {
+	color: #000000;
+}
+.bdsm-desc1 p{
+	line-height: 38px;
+	font-size: 18px;
+	color: #373F43;
+}
+.bdsm-desc1 p span{
+	width: 15px;
+	height: 20px;
+	display: inline-block;
+	background:url('../images/public/symbol.png') no-repeat ;
+	background-position: -17px 0;
+	vertical-align: middle;
+	margin-top: -5px;
+}
+.tri-inner.bwhite{border-top: 31px solid #f8f8f8;}
+.am_back {
+    width: 1100px;
+    height: 127px;
+    margin: 0 auto;
+    margin-top: 25px;
+    padding-bottom: 100px;
+}
+
+.centers{background-color:#f8f8f8;}
+.bannerbj.brmc .bdsm-title {margin-top:50px;}
+.banner-container .btn {
+	position: absolute;
+	bottom: -10px;
+	left: 0;
+	font-size: 0;
+}
+.banner-container .btn a{
+	width: 284px;
+	height: 58px;
+	display: inline-block;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 58px;
+	border-radius: 5px;
+	background: url('../images/public/button.png') no-repeat center center;
+}
+.banner-container .btn .left {
+	margin-right: 34px;
+	background-position: -8px -8px;
+}
+.banner-container .btn .left:hover {
+	background-position: -8px -85px;
+	text-decoration: none;
+}
+.banner-container .btn .right {
+	background-position: -8px -260px;
+}
+.banner-container .btn .right:hover {
+	background: #da571b;
+	text-decoration: none;
+}
+.am-aut {
+width: 100%;
+text-align: center;
+margin: 0 auto;
+font-size: 34px;
+padding-top: 43px;
+margin-bottom: 80px;
+}
+.am-aut p {
+    font-size: 34px;
+    color: #000000;
+    margin-top:25px;
+}
+.wrap-content{
+	background: #F8F8F8;
+	clear: both;
+	padding: 70px 0;	
+}
+.content-text{
+	width: 980px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.content-text h3{
+	font-size: 34px;
+	margin: 50px 0 60px 0;
+	text-align: center;
+	font-weight: 400;
+}
+.content-text .left{
+	width: 230px;
+	float: left;
+}
+.content-text .left img{
+	display: block;
+	margin: 50px 0 0 10px;
+}
+.content-text .right{
+	float: left;
+	width:750px;
+}
+.content-text .right p{
+	font-size: 18px;
+	color: #010101;
+	line-height: 26px;
+	padding: 0 10px 30px 20px;
+	border-left: 1px solid #c1c1c1;
+}
+.content-text .right p:last-child{
+	padding-bottom: 0;
+}
+.content-text .right p>a{
+	width: 284px;
+	height: 58px;
+	display: block;
+	background: #399ef6;
+	text-align: center;
+	line-height: 58px;
+	color: #FFFFFF;
+	border-radius: 4px;
+	font-size: 18px;
+}
+.content-text .right p>a:hover {
+	text-decoration: none;
+	background: #318ad7;
+}
+.am_buy:hover{background-color: #F4350B;}
+.an_back_2_2 ul li{ margin: 0px; padding-left: 20px; margin-top:18px; background:url("../images/partition-clone-software/ssd-cloning-software.png") no-repeat 0px 2px;}
+.an_back_3{ margin-top: 32px; line-height: 28px;font-size: 18px; color: #373f43;}
+.am_content_1{width: 980px; height: 240px; margin-bottom: 65px;}
+.am_content_1_1{float: left;}
+.am_content_1_2{ width:565px; height: 180px; font-size: 16px;color:#373f43; padding-right:10px;float: right; padding-top: 25px;}
+.am_content_1_2_2{margin-top: 30px;}
+.am_content_1_2_2 ul li{ margin: 0px; padding-left: 20px; margin-bottom:12px; background:url("../images/partition-clone-software/ssd-cloning-software.png") no-repeat 0px 2px;}
+.am_user{width: 980px;height: 690px; text-align: center; margin: 0 auto;}
+.am_user div{text-align: center;}
+.am_user1{font-size:34px;color: #000000;}
+.am_user2{font-size: 16px; line-height: 24px; color: #373f43; margin-top: 53px; margin-bottom: 53px;}
+.am_user_next{ width:100%; height: 300px; position: relative; background: url("../images/public/img.jpg") no-repeat center center; background-size: cover; margin-top:-40px}
+.am_user_next_1{ width:100%; height:auto; font-size: 34px; color: #000000; position: absolute;top:60px; left: 0px; text-align: center;}
+.am_user_next_2{width: 100%; height: 120px;position: absolute;top:145px; left: 0px; }
+.am_user_next_2_1{width:980px; height: 120px; margin: 0 auto; padding-left:60px; font-size: 16px; color: #e5e5e5; }
+.am_user_next_2_1 p {
+	text-align: center;
+	padding: 0px 12px;
+	line-height: 30px;
+}
+.am_user_next_2_1 p a{
+	font-size: 16px;
+	color: #f6f405;
+}
+.am_user_next_2_1 p a:hover {
+	color: #f6f405;
+}
+.tri-angle-linebox1{margin-top: 0px;}
+.am-contentSlide-title h1{font-size: 34px; font-weight: 400; color: #000000;}
+.am-contentSlide-title p{
+	font-size: 18px;
+	font-weight: normal;
+	padding-top:38px;
+}
+.am_user_next .btn {
+	width: 654px;
+	position: absolute;
+	left: 50%;
+	margin-left: -327px;
+	bottom: 35px;
+}
+.am_user_next .btn .btn_download,
+.am_user_next .btn .btn_purchase {
+	width: 284px;
+	text-align: center;
+	border-radius: 4px;
+	cursor: pointer;
+	line-height: 58px;
+	height: 58px;
+	
+}
+.am_user_next .btn .btn_download{
+	margin-right: 86px;
+	float: left;
+	background: #3ba0fa;
+}
+.am_user_next .btn .btn_download:hover {
+	background: #3289d7;
+}
+.am_user_next .btn .btn_purchase {
+	float: right;
+	background: #fe611e;
+}
+.am_user_next .btn .btn_purchase:hover {
+	background: #d75219;
+}
+.am_user_next .btn a{
+	font-size: 18px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.am-content-sec { padding: 80px 0 65px 0;}
+.am-content-sec .am-contentSlide-title{ margin-bottom: 48px;}
+.am_content_1 ul li{ height:auto;float:left;}
+.li_1{margin-right:26px; border: 1px solid #dedede;}
+.li_2{border-bottom: 1px solid #dedede; float: left; border: 1px solid #dedede; }
+.li_3{margin-right:26px; margin-top: 28px;border: 1px solid #dedede;}
+.li_4{margin-top: 28px;border: 1px solid #dedede;}
+.li_1_right,.li_1_left{ width:341px; height:105px; font-size:14px; color: #373f43;}
+
+.li_1_right{float: left;padding-right: 14px;}
+.li_1_left{float: right;}
+.li_1_right div {
+	
+}
+.li_1_right div h6,
+.li_2 .li_1_left h6,
+.li_3 .li_1_right h6,
+.li_4 .li_1_left h6{
+	font-size: 18px;
+	line-height: 2.5;
+	font-weight: 400;
+	text-align: right;
+}
+.li_2 .li_1_left h6,
+.li_4 .li_1_left h6{
+	text-align: left;
+	margin-left: 13px;
+}
+.li_1_right div p,
+.li_2 .li_1_left p,
+.li_3 .li_1_right p,
+.li_4 .li_1_left p{
+	font-size: 14px;
+	line-height: 1.5;
+	text-align: right;
+	margin-left: 13px;
+	
+}
+.li_2 .li_1_left p,
+.li_4 .li_1_left p{
+	text-align: left;
+}
+.li_1 .f_right,.li_3 .f_right,.li_2 .f_right{
+	float: left;
+}
+
+.li_1 .f_right span,
+.li_2 .f_right span,
+.li_3 .f_right span,
+.li_4 .f_right span{
+	display: inline-block;
+	width: 120px;
+	height: 135px;
+	background:#F0F0F0 url('../images/os-deployment-software/icon.png') no-repeat;
+	background-position: 10px 13px;
+	border-left:1px solid #dedede ;
+}
+.li_2 .f_right span{
+	background-position: -96px 13px;
+	border-right:1px solid #dedede ;
+	border-left: none;
+}
+.li_3 .f_right span{
+	background-position: 13px -94px;
+}
+.li_4 .f_right span{
+	background-position: -99px -93px;
+	float: left;
+	border-right:1px solid #dedede ;
+	border-left: none;
+}
+.li_4 .f_right{
+	float: left;
+};
+.li_1_left div{ margin-left: 19px; margin-top:36px; line-height: 22px;}
+.f-right{float: right;}
+.clear-float{ width:100%;height: 72px;}
+.am_user_next_1 h1{ font-size: 34px; font-weight: 400; color:#ffffff; width: 980px; margin: 0 auto; padding-right: 10px; text-align: right;}
+.btn-banner-left{width: 75px; height:100%; background-color: #dedede; position: absolute;top: 0px;left: 16%; }
+.btn-banner-right{width: 75px; height:100%; background-color: #dedede;position: absolute;top: 0px;left:78%; }
+.banner-content{width: 745px;height:100% ;background-color: #666666;position: absolute;top: 0px;left:23%; }
+.btnl{width: 75px; height: 75px;border:2px solid #c5c5c5;border-radius: 74px;}
+.am-content-sec{padding-top:65px; }
+.cs-title1 {margin-top: 27px;margin-bottom: 0px; width: 744px; line-height: 24px;}
+.am-content-sec .SlideImg1{margin-top: 0px;}
+.footer-banner{width: 100%; height: 850px;}
+.list_text {
+	width: 980px;
+	margin: 0px auto;
+	overflow: hidden;
+	margin-bottom: 50px;
+}
+.list_text h2 {
+	font-size: 34px;
+	font-weight: normal;
+	text-align: center;
+	margin: 50px 0;
+}
+.list_text ul {
+	width: 453px;
+	border: 1px solid #DEDEDE;
+	float: left;
+	padding: 15px 0 15px 15px;
+}
+.list_text .first{
+	margin-right: 40px;
+}
+.list_text ul li a{
+	font-size: 14px;
+	color: #0676d6;
+	line-height: 2.2;
+	white-space: nowrap;
+}
+.list_text ul li span {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background: url('../images/os-deployment-software/symbol.png') no-repeat;
+	background-position: -30px 3px;
+}
+.am-content-sec ul li{
+	width: 229px;
+	background: #f6f6f6;
+	float: left;
+	margin-right: 15px;
+	border: 1px solid #dfdfdf;
+}
+.am-content-sec ul li:last-child {
+	margin-right: 0;
+}
+.am-content-sec ul li .img{
+	width: 100%;
+	height: 124px;
+	background: #EDEDED;
+}
+.am-content-sec ul li .img div{
+	height: 100%;
+	width: 96px;
+	margin: 0 auto;
+	background: url('../images/backup-and-recovery-software/icon.png') no-repeat;
+	background-position: 0 10px;
+}
+.am-content-sec ul li .img .img2 {
+	background-position: -99px 10px;
+}
+.am-content-sec ul li .img .img3 {
+	background-position: -208px 15px;
+}
+.am-content-sec ul li .img .img4 {
+	background-position: -324px 15px;
+}
+.am-content-sec ul li .content h6 {
+	font-size: 16px;
+	font-weight: normal;
+	color: #000000;
+	margin: 0 auto;
+	text-align: center;
+	width: 175px;
+	height: 70px;
+	line-height: 70px;
+}
+.am-content-sec ul li .content p {
+	color: #373f43;
+	font-size: 14px;
+	line-height: 24px;
+	padding: 0 37px;
+	height: 168px;
+}
+.line{
+	margin-top: 360px;
+	border-top:1px solid #e3e3e3;
+}
+

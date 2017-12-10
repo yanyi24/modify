@@ -1,0 +1,486 @@
+
+.tri-inner.bwhite{border-top: 31px solid #f8f8f8;}
+.banner-top-wrapper {
+	background: url("../images/backup-to-extenal-hard-drive-so/banner-bg.jpg") no-repeat center center;
+	background-size: cover;
+}
+.banner-content-top {
+	width: 980px;
+	margin: 0 auto;
+}
+.banner-content-top h1{
+	font-size: 40px;
+	color: #FFFFFF;
+	font-weight: 400;
+	line-height: 46px;
+	padding: 160px 0 90px 0;
+	text-align: center;
+}
+.banner-content-top p {
+	font-size: 20px;
+	color: #FFFFFF;
+	line-height: 40px;
+	padding: 0 0 100px 0;
+	text-align: center;
+}
+.wrap-content{
+	clear: both;
+	padding: 70px 0;
+	background: #F8F8F8;
+}
+.content-text{
+	width: 980px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.content-text h3{
+	font-size: 34px;
+	margin: 50px 0 60px 0;
+	text-align: center;
+	font-weight: 400;
+}
+.content-text .left{
+	width: 230px;
+	float: left;
+}
+.content-text .left img{
+	display: block;
+	margin: 112px 0 0 10px;
+}
+.content-text .right{
+	float: left;
+	width:750px;
+}
+.content-text .right p{
+	font-size: 18px;
+	color: #010101;
+	line-height: 26px;
+	padding: 0 10px 30px 20px;
+	border-left: 1px solid #c1c1c1;
+}
+.content-text .right p:last-child{
+	padding-bottom: 0;
+}
+.content-text .right p>a{
+	width: 284px;
+	height: 58px;
+	display: block;
+	background: url('../images/os-deployment-software/button.png') no-repeat center center;
+	text-align: center;
+	line-height: 58px;
+	color: #FFFFFF;
+	border-radius: 4px;
+	font-size: 18px;
+}
+.content-text .right p>a:hover {
+	text-decoration: none;
+	background-position: -8px -8px;
+}
+.content-text .btn {
+	display: inline-block;
+}
+.content-text .btn a{
+	width: 284px;
+	height: 58px;
+	display: inline-block;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 58px;
+	border-radius: 5px;
+	background: url('../images/os-deployment-software/button.png') no-repeat center center;
+}
+.content-text .btn .left-circle {
+	background-position: -8px -8px;
+	margin-right: 34px;
+}
+.content-text .btn .left-circle:hover {
+	background-position: -8px -85px;
+	text-decoration: none;
+}
+.content-text .btn .right-circle {
+	background-position: -8px -183px;
+}
+.content-text .btn .right-circle:hover {
+	background-position: -8px -260px;
+	text-decoration: none;
+}
+.am_buy:hover{background-color: #F4350B;}
+.an_back_2_2 ul li{ margin: 0px; padding-left: 20px; margin-top:18px; background:url("../images/partition-clone-software/ssd-cloning-software.png") no-repeat 0px 2px;}
+.an_back_3{ margin-top: 32px; line-height: 28px;font-size: 18px; color: #373f43;}
+.am_content_1{width: 980px; height: 240px; margin-bottom: 65px;}
+.am_content_1_1{float: left;}
+.am_content_1_2{ width:565px; height: 180px; font-size: 16px;color:#373f43; padding-right:10px;float: right; padding-top: 25px;}
+.am_content_1_2_2{margin-top: 30px;}
+.am_content_1_2_2 ul li{ margin: 0px; padding-left: 20px; margin-bottom:12px; background:url("../images/partition-clone-software/ssd-cloning-software.png") no-repeat 0px 2px;}
+.am_user{width: 980px;height: 690px; text-align: center; margin: 0 auto;}
+.am_user div{text-align: center;}
+.am_user1{font-size:34px;color: #000000;}
+.am_user2{font-size: 16px; line-height: 24px; color: #373f43; margin-top: 53px; margin-bottom: 53px;}
+.am_user_next{ width:100%; height: 300px; position: relative; background: url("../images/system-imaging-software/img.jpg") no-repeat center center; background-size: cover; margin-top:-40px}
+.am_user_next_1{ width:100%; height:auto; font-size: 34px; color: #000000; position: absolute;top:60px; left: 0px; text-align: center;}
+.am_user_next_2{width: 100%; height: 120px;position: absolute; top: 68px; left: 0px; }
+.am_user_next_2_1{width:980px; height: 120px; margin: 0 auto; padding-left:60px; font-size: 16px; color: #e5e5e5; }
+.am_user_next_2_1 p {
+	text-align: center;
+	padding: 0px 12px;
+	line-height: 30px;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.am_user_next_2_1 p a{
+	font-size: 16px;
+	color: #f6f405;
+}
+.am_user_next_2_1 p a:hover {
+	color: #f6f405;
+}
+.am_user_next .btn {
+	position: absolute;
+	bottom: 30px;
+	left: 50%;
+	margin-left: -260px;
+}
+.am_user_next .btn a{
+	width: 284px;
+	height: 58px;
+	display: inline-block;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 58px;
+	border-radius: 5px;
+	background: url('../images/os-deployment-software/button.png') no-repeat center center;
+}
+.am_user_next .btn .left {
+	background-position: -8px -8px;
+	margin-right: 44px;
+}
+.am_user_next .btn .right {
+	background-position: -8px -183px;
+}
+.am_user_next .btn .left:hover {
+	background-position: -8px -85px;
+	text-decoration: none;	
+}
+.am_user_next .btn .right:hover {
+	background-position: -8px -260px;
+	text-decoration: none;
+}
+.tri-angle-linebox1{margin-top: 0px;}
+.am-contentSlide-title h1{font-size: 34px; font-weight: 400; color: #000000;}
+.am-contentSlide-title p{
+	font-size: 18px;
+	font-weight: normal;
+	padding-top:38px;
+}
+.am-content-sec { padding: 80px 0 65px 0;}
+.am-content-sec .am-contentSlide-title{ margin-bottom: 48px;}
+.am_content_1 ul li{ height:auto;float:left;}
+.li_1{margin-right:26px; border: 1px solid #dedede;}
+.li_2{border-bottom: 1px solid #dedede; float: left; border: 1px solid #dedede; }
+.li_3{margin-right:26px; margin-top: 28px;border: 1px solid #dedede;}
+.li_4{margin-top: 28px;border: 1px solid #dedede;}
+.li_1_right,.li_1_left{ width:341px; height:105px; font-size:14px; color: #373f43;}
+
+.li_1_right{float: left;padding-right: 14px;}
+.li_1_left{float: right;}
+.li_1_right div {
+	
+}
+.li_1_right div h6,
+.li_2 .li_1_left h6,
+.li_3 .li_1_right h6,
+.li_4 .li_1_left h6{
+	font-size: 18px;
+	line-height: 2.5;
+	font-weight: 400;
+	text-align: right;
+}
+.li_2 .li_1_left h6,
+.li_4 .li_1_left h6{
+	text-align: left;
+	margin-left: 13px;
+}
+.li_1_right div p,
+.li_2 .li_1_left p,
+.li_3 .li_1_right p,
+.li_4 .li_1_left p{
+	font-size: 14px;
+	line-height: 1.5;
+	text-align: right;
+	margin-left: 13px;
+	
+}
+.li_2 .li_1_left p,
+.li_4 .li_1_left p{
+	text-align: left;
+}
+.li_1 .f_right,.li_3 .f_right,.li_2 .f_right{
+	float: left;
+}
+
+.li_1 .f_right span,
+.li_2 .f_right span,
+.li_3 .f_right span,
+.li_4 .f_right span{
+	display: inline-block;
+	width: 120px;
+	height: 135px;
+	background:#F0F0F0 url('../images/os-deployment-software/icon.png') no-repeat;
+	background-position: 10px 13px;
+	border-left:1px solid #dedede ;
+}
+.li_2 .f_right span{
+	background-position: -96px 13px;
+	border-right:1px solid #dedede ;
+	border-left: none;
+}
+.li_3 .f_right span{
+	background-position: 13px -94px;
+}
+.li_4 .f_right span{
+	background-position: -99px -93px;
+	float: left;
+	border-right:1px solid #dedede ;
+	border-left: none;
+}
+.li_4 .f_right{
+	float: left;
+};
+.li_1_left div{ margin-left: 19px; margin-top:36px; line-height: 22px;}
+.f-right{float: right;}
+.clear-float{ width:100%;height: 72px;}
+.am_user_next_1 h1{ font-size: 34px; font-weight: 400; color:#ffffff; width: 980px; margin: 0 auto; padding-right: 10px; text-align: right;}
+.btn-banner-left{width: 75px; height:100%; background-color: #dedede; position: absolute;top: 0px;left: 16%; }
+.btn-banner-right{width: 75px; height:100%; background-color: #dedede;position: absolute;top: 0px;left:78%; }
+.banner-content{width: 745px;height:100% ;background-color: #666666;position: absolute;top: 0px;left:23%; }
+.btnl{width: 75px; height: 75px;border:2px solid #c5c5c5;border-radius: 74px;}
+.am-content-sec{padding-top:65px; }
+.cs-title1 {margin-top: 27px;margin-bottom: 0px; width: 744px; line-height: 24px;}
+.am-content-sec .SlideImg1{margin-top: 0px;}
+.footer-banner{width: 100%; height: 850px;}
+.list_text {
+	width: 980px;
+	margin: 0px auto;
+	overflow: hidden;
+	margin-bottom: 50px;
+}
+.list_text h2 {
+	font-size: 34px;
+	font-weight: normal;
+	text-align: center;
+	margin: 50px 0;
+}
+.list_text ul {
+	width: 453px;
+	border: 1px solid #DEDEDE;
+	float: left;
+	padding: 15px 0 15px 15px;
+}
+.list_text .first{
+	margin-right: 40px;
+}
+.list_text ul li a{
+	font-size: 14px;
+	color: #0676d6;
+	line-height: 2.2;
+	white-space: nowrap;
+}
+.list_text ul li span {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background: url('../images/os-deployment-software/symbol.png') no-repeat;
+	background-position: -30px 3px;
+}
+.am-content-sec ul li{
+	width: 980px;
+	background: #f6f6f6;
+	overflow: hidden;
+	border: 1px solid #dfdfdf;
+	margin-bottom: 44px;
+	padding-bottom: 30px;
+}
+.am-content-sec ul li .img{
+	width: 318px;
+	height: 225px;
+	background: url('../images/backup-to-extenal-hard-drive-so/backup.jpg') no-repeat center center;
+	background-size: cover;
+	float: left;
+	margin: 30px 30px 0 30px;
+}
+.am-content-sec ul li .img2 {
+	background: url('../images/backup-to-extenal-hard-drive-so/clone.jpg') no-repeat center center;
+	background-size: cover;
+	float: right;
+	margin-left: 0px;
+}
+.am-content-sec ul li .img3 {
+	background: url('../images/backup-to-extenal-hard-drive-so/utilities.jpg') no-repeat center center;
+	background-size: cover;
+}
+.am-content-sec ul li .content {
+	width: 592px;
+	float: right;
+	padding-right: 10px;
+}
+.am-content-sec ul li .content2 {
+	width: 592px;
+	float: right;
+	padding-left: 10px;
+}
+
+.am-content-sec ul li .content h6 {
+	font-size: 18px;
+	font-weight: normal;
+	color: #000000;
+	text-align: left;
+	height: 70px;
+	line-height: 70px;
+}
+.am-content-sec ul li .content>p {
+	color: #373f43;
+	font-size: 14px;
+	line-height: 26px;
+}
+.am-content-sec ul li .content .text p {
+	color: #373f43;
+	font-size: 14px;
+	line-height: 34px;
+}
+.am-content-sec ul li .content .text span {
+	width: 15px;
+	height: 20px;
+	display: inline-block;
+	background:url('../images/os-deployment-software/symbol.png') no-repeat ;
+	background-position: -17px 1px;
+	vertical-align: middle;
+	margin-top: -5px;
+}
+.am-content-sec ul li .content .text {
+	margin: 30px 0;
+}
+.line{
+	border-top:1px solid #e3e3e3;
+}
+
+.banner-bottom {
+	width: 100%;
+	height: 434px;
+	margin-top:30px
+}
+.banner-bottom .center{
+	width: 980px;
+	margin: 0 auto;
+}
+.banner-bottom .center h2 {
+	font-size: 34px;
+	color: #000000;
+	text-align: center;
+	font-weight: normal;
+	position: relative;
+	top: 55px;
+}
+.banner-bottom .center .banner{
+	position: relative;
+	top: 125px;
+	padding-bottom: 20px;
+}
+.banner-bottom .center .banner .wrapper {
+	width: 750px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.banner-bottom .center .banner .wrapper ul{
+	width: auto;
+	position: relative;
+	left: 0;
+	top: 0;
+}
+.banner-bottom .center .banner .wrapper ul li{
+	float: left;
+	width: 750px;
+}
+.banner-bottom .center .banner .wrapper ul .show{
+	display: block;
+}
+.banner-bottom .center .banner .wrapper ul li h6 {
+	font-size: 18px;
+	color: #000000;
+	font-weight: normal;
+	text-align: center;
+}
+.banner-bottom .center .banner .wrapper ul li p {
+	font-size: 14px;
+	color: #373f43;
+	line-height: 24px;
+	padding: 25px 0px 25px 20px;
+}
+.banner-bottom .center .banner .btn-bottom {
+	position: absolute;
+	left: 50%;
+	bottom: 18px;
+	margin-left: -40px;
+}
+.banner-bottom .center .banner .btn-bottom a {
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	background: url('../images/usb-backup-software/toggle-button.png') no-repeat ;
+	background-position: -31px 1px;
+	text-indent: -9999px;
+}
+.banner-bottom .center .banner .btn-bottom .active {
+	background-position: 0px 1px;
+}
+.banner-bottom .center .banner .icon span{
+	width: 80px;
+	height: 70px;
+	display: inline-block;
+	text-indent: -9999px;
+}
+.banner-bottom .center .banner .icon .left {
+	background: url('../images/automated-backup-software/quotation.png') no-repeat;
+	position: absolute;
+	left: 37px;
+	top: 35px;
+}
+.banner-bottom .center .banner .icon .right {
+	background: url('../images/automated-backup-software/quotation.png') no-repeat;
+	background-position: -88px 0;
+	position: absolute;
+	right: 37px;
+	top: 35px;
+}
+.banner-bottom .center .banner .btn-arrow a {
+	width: 25px;
+	height: 50px;
+	display: inline-block;
+	text-indent: -9999px;
+	background: url('../images/automated-backup-software/arrow.png') no-repeat;	
+}
+.banner-bottom .center .banner .btn-arrow .left {
+	background-position: -6px -3px;
+	position: absolute;
+	left: 0px;
+	top: 50px;
+}
+.banner-bottom .center .banner .btn-arrow .right {
+	background-position: -95px -3px;
+	position: absolute;
+	right: 0px;
+	top: 50px;
+}
+.banner-bottom .center .banner .btn-arrow .action2 {
+	background-position: -131px -3px;
+	position: absolute;
+	right: 0px;
+	top: 50px;
+}
+.banner-bottom .center .banner .btn-arrow .action1 {
+	background-position: -41px -3px;
+	position: absolute;
+	left: 0px;
+	top: 50px;
+}

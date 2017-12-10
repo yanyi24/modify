@@ -1,13 +1,22 @@
-const http = require('http');
+const fs = require('fs');
+const path = require('path');
 const config = require('./src/config/defaultConfig');
 
-const server = http.createServer((req,res) => {
-	res.statusCode = 200;
-	res.setHeader('Content-Type','text/plain');
-	res.end('Hello');
-});
+const dirpath = path.join(config.root,'./testHTML');
 
-server.listen(config.port,config.hostname,(err) => {
-	console.info(`Server is running at http://${config.hostname}:${config.port} `);
+fs.readdir(dirpath,(err,files) => {
 	if(err) throw err;
+	for(let i=0;i<files.length;i++){
+		const filepath = dirpath +'\\'+files[i];
+		const stats = fs.stat(filepath,(err,stats) => {
+			if(err) throw err;
+			if(stats.isFile() && files[i].indexOf('.html')){
+				const htmlfile = files[i];
+				let htmlreadstream = fs.readFileSync(dirpath+'\\'+htmlfile);
+				console.log(htmlreadstream.toString())
+			}
+		});
+		
+	}
 });
+// console.log(files);
