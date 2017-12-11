@@ -19,11 +19,10 @@ const fn = function(pathname){
 					const addbuf = Buffer.from(`\n    <link rel="canonical" href="${config.modifyhostname}${hrefbox}">`);
 					const ancherindexof = htmlreaded.indexOf(ancherbuf);
 					const start = ancherindexof + ancherbuf.length;
-					let modifybuf = [];
 					const reststream = fs.createReadStream(path.join(pathname,htmlfile),{start});
 				
 					reststream.on('data',(restbuf) => {
-						modifybuf = Buffer.concat([addbuf,restbuf]);
+						const modifybuf = Buffer.concat([addbuf,restbuf]);
 						fs.createWriteStream(path.join(pathname,htmlfile),{flags: 'r+',start}).end(modifybuf,() => {
 							console.info(`${filepath} modified successfully!!`);
 						});
