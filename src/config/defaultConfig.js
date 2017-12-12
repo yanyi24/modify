@@ -1,6 +1,6 @@
 module.exports = {
 	root: process.cwd(),
-	hostname : '127.0.0.1',
-	port: 8888,
-	modifyhostname: 'https://www.backup-utility.com'
+	ancherhtml: '<head>',
+	modifyhostname: 'https://www.backup-utility.com',
+	modifyabpath: 'E:\\yanyi\\node\\modify\\testHTML'
 };

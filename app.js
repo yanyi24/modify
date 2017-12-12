@@ -2,11 +2,11 @@ const fs = require('fs');
 const path = require('path');
 const config = require('./src/config/defaultConfig');
 
-const dirpath = path.join(config.root,'./testHTML');
+const dirpath = path.relative(config.root,config.modifyabpath);
 const fn = function(pathname){
 	fs.readdir(pathname,(err,files) => {
 		if(err) throw err;
-		const ancherbuf = Buffer.from('<head>');
+		const ancherbuf = Buffer.from(config.ancherhtml);
 		for(let i=0;i<files.length;i++){
 			const filepath = path.join(pathname ,files[i]);
 		
